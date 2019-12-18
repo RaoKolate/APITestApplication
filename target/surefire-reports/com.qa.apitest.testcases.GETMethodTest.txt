@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.qa.apitest.testcases.GETMethodTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.637 s <<< FAILURE! - in com.qa.apitest.testcases.GETMethodTest
+GETAPITest(com.qa.apitest.testcases.GETMethodTest)  Time elapsed: 0.796 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.qa.apitest.testcases.GETMethodTest.GETAPITest(GETMethodTest.java:35)
+
